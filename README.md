@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou o Cauã Affonso Mendonça Domingues da Silva
 
-<!--
-**Ca985-tech/ca985-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+ - 🎓 Estudante de Sistemas de Informação na UDF
+ - 🌱 Desenvolvedor Full Stack apaixonado
+ - 🤝 Habilidades sólidas de trabalho em equipe
+ - 📄 Atuando atualmente em um projeto de sustentabilidade e reciclagem
+ - 📚 Possuo 3 certificações em TI
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos
+ - 💻 Desenvolvimento Web
+ - ⚙️ Banco de dados (com algumas lacunas de conhecimento)
+ 
+Se você quiser conversar ou colaborar, fique à vontade para entrar em contato!
